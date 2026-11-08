@@ -1,5 +1,9 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
+Nama  : Arifah Husna Khairunnisa
+NIM   : 13040124130044
+Kelas : A
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Pedoman Tugas MAE](ebook/Pedoman Tugas MAE.pdf) – Gani Nur Pramudyo (2026) 
