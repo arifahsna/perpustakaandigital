@@ -5,8 +5,6 @@ Nama  : Arifah Husna Khairunnisa
 
 NIM   : 13040124130044
 
-Kelas : A
-
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Mimpi yang Aneh](ebook/Mimpi yang Aneh.pdf) – D Harlina (2026)
@@ -19,7 +17,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Kampung Kincir Angin](ebook/Kampung Kincir Angin.pdf) – Dian Istiaty (2026)
 9. [Hikayat Ikan Kambo](ebook/Hikayat Ikan Kambo.pdf) – Lydia Angela Gonodiharjo (2026)
 10. [Benang Rahasia Nara](ebook/Benang Rahasia Nara.pdf) – Nabila Putri Saraswati (2026)
-11. 
+11. [UGC Transforming Libraries through Information Technology](ebook/UGC Transforming Libraries through Information Technology.pdf) – Arifah Husna Khairunnisa (2026)
 
 
 ---
